@@ -1,0 +1,1 @@
+Researched and implemented AI image recognition model to determine to classify 4 font characteristics out of an image input using Python and Keras along with transfer learning, ensembling and multi-output techniques, eventually being winner of the hackathon.![image](https://user-images.githubusercontent.com/73430548/218243953-06d3c97f-0241-4418-b997-0ba79081fb53.png)
